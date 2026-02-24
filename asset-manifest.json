@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harmeetgymapp/static/css/main.72888507.css",
+    "main.js": "/harmeetgymapp/static/js/main.074aadaa.js",
+    "static/js/453.84c71db1.chunk.js": "/harmeetgymapp/static/js/453.84c71db1.chunk.js",
+    "index.html": "/harmeetgymapp/index.html",
+    "main.72888507.css.map": "/harmeetgymapp/static/css/main.72888507.css.map",
+    "main.074aadaa.js.map": "/harmeetgymapp/static/js/main.074aadaa.js.map",
+    "453.84c71db1.chunk.js.map": "/harmeetgymapp/static/js/453.84c71db1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72888507.css",
+    "static/js/main.074aadaa.js"
+  ]
+}
