@@ -22,7 +22,7 @@ function App() {
       <div className="hero">
         <video className="hero-video" autoPlay muted loop>
           <source
-            src={`${process.env.PUBLIC_URL}/assets/456653_Gym Training Workout Exercise_By_Cinematic_Vision_Artlist_HD.mp4`}
+            src="https://drive.google.com/file/d/1UD2FG95TXdo8q293ODDE_pYiF-mJ6l4k/view?usp=sharing"
             type="video/mp4"
           />
           Your browser does not support the video tag.
